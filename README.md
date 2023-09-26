@@ -93,8 +93,6 @@ For running the application:
 7. You need to first signup and then login to run the application.
 
 ## Useful Links
-- Demo: https://food-aid-aayush.herokuapp.com/
-- Github Repo: https://github.com/aayush301/Food-donation-management-system
 - Nodejs download: https://nodejs.org/
 - VS Code download: https://code.visualstudio.com/
 - Tutorials: https://www.w3schools.com/
